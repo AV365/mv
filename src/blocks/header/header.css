@@ -1,0 +1,9 @@
+.header {
+    background-image: url("./../../images/top-img.svg");
+    background-position: center;
+    height: 82px;
+    width: 100%;
+
+    margin: 0;
+    padding: 0;
+}

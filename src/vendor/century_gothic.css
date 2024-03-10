@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Century Gothic';
+	src: url('./fonts/century_gothic.eot'); /* IE 9 Compatibility Mode */
+	src: url('./fonts/century_gothic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('./fonts/century_gothic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('./fonts/century_gothic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('./fonts/century_gothic.ttf') format('truetype'), /* Safari, Android, iOS */
+}

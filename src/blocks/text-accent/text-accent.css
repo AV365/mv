@@ -1,0 +1,23 @@
+.text-accent {
+    font-family: Noto Sans;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: var(--color-content-text);
+
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, #FDD966 0%, #BCD77E 68.54%);
+
+}
+
+@media screen and (max-width: 700px) {
+    .text-accent  {
+        font-size: 20px;
+        line-height: 135%;
+    }
+}

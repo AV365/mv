@@ -1,0 +1,6 @@
+.questions__question-wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 29px;
+}
+

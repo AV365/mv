@@ -1,0 +1,4 @@
+.modal_closed {
+display: none;
+    transition: all 0.2s ease-out;
+}

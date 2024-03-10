@@ -1,0 +1,13 @@
+.modal__text {
+
+    font-family: Noto Sans;
+    font-size: 1.69vw;
+    font-weight: 400;
+    line-height: 2.32vw;
+    text-align: left;
+
+    color: var(--color-content-text);
+    margin: 0;
+    padding: 0.63vw 0 0 0;
+
+}

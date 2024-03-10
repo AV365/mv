@@ -1,0 +1,9 @@
+.cards3 {
+    display: flex;
+    flex-direction: row;
+    gap:3.80vw;
+
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}

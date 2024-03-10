@@ -1,0 +1,18 @@
+.text-title {
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: var(--color-content-text);
+
+}
+
+@media screen and (max-width: 700px) {
+    .text-title  {
+        font-size: 18px;
+        line-height: 135%;
+    }
+}

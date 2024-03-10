@@ -1,0 +1,11 @@
+.cards3__card {
+    background: rgba(253, 217, 102, 0.25);
+
+    padding: 1.2vw;
+    border-radius: 1.41vw;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}

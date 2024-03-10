@@ -1,0 +1,10 @@
+.modal__title {
+    font-family: Noto Sans;
+    font-size: 2.11vw;
+    font-weight: 700;
+    line-height: 2.89vw;
+
+    text-align: center;
+
+    color: var(--color-content-text);
+}

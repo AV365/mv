@@ -1,0 +1,14 @@
+.cards3__text {
+    font-family: Noto Sans;
+    font-size: 1.27vw;
+    font-weight: 300;
+    line-height: 1.76vw;
+
+    text-align: center;
+
+    color: var(--color-content-text);
+
+    margin: 1.06vw 0 0 0;
+    padding: 0;
+
+}

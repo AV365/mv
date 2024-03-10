@@ -1,0 +1,18 @@
+.modal__button {
+    position: absolute;
+    top: 0.35vw;
+    right: 0.35vw;
+
+    width: 3.52vw;
+    height: 3.52vw;
+    background-image: url("./../../../images/ico-close.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    border: 0px;
+}
+
+.modal__button:hover {
+    transform: scale(1.2);
+    transition: all 0.2s ease-out;
+}

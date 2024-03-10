@@ -1,0 +1,8 @@
+.lines__marker {
+    position: absolute;
+    width: 30px;
+    height: 27px;
+
+    bottom: -25px;
+    left: 50%;
+}

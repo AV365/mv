@@ -1,0 +1,6 @@
+.lines__item {
+    position: relative;
+    border: 2px solid var(--color-content-text);
+    width: 33%;
+    border-top: none;
+}

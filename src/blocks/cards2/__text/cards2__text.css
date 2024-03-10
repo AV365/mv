@@ -1,0 +1,19 @@
+.cards2__text {
+    font-family: Noto Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    color: var(--color-content-text);
+}
+
+
+@media screen and (max-width: 1250px) {
+    .cards2__text {
+        font-size: 18px;
+        line-height: 135%;
+
+    }
+}

@@ -1,0 +1,19 @@
+.cards1-card__img {
+    position: relative;
+
+    background-image: url("../../../images/ico-spray.svg");
+    background-repeat: no-repeat;
+
+    width: 180px;
+    height: 147px;
+}
+
+
+@media screen and (max-width: 1250px) {
+    .cards1-card__img {
+
+        width: 150px;
+
+
+    }
+}

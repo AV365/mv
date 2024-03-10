@@ -1,0 +1,24 @@
+.modal__wrapper {
+    position: fixed;
+    width: 90.85vw;
+    height: 60vw;
+
+
+    background-color: white;
+
+    left: 0;
+    right: 0;
+    top: 3vw;
+    bottom: 0;
+
+
+    margin: 1.41vw;
+    padding: 2.82vw;
+    border-radius: 1.41vw;
+    border: 0.07vw solid var(--color-content-text);
+    box-shadow: 0 0 1.76vw rgba(0, 0, 0, 0.15);
+    opacity: 1;
+
+
+    z-index: 999999;
+}

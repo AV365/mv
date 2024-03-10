@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 40px);
+max-width: 1380px;
+    margin: 64px 120px;
+    padding: 45px 20px;
+    box-shadow: 0px 0px 25px 0px rgba(142, 160, 173, 0.35);
+
+    background-color: white;
+
+}

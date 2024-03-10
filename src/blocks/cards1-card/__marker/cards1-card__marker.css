@@ -1,0 +1,34 @@
+.cards1-card__marker {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+    width: 80px;
+    height: 80px;
+
+    background: linear-gradient(90deg, #FDD966 0%, #BCD77E 68.54%);
+
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: Noto Sans;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 65px;
+    letter-spacing: 0em;
+
+
+
+}
+
+@media screen and (max-width: 1250px) {
+    .cards1-card__marker {
+
+        font-size: 35px;
+        line-height: 135%;
+
+    }
+}
