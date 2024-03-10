@@ -15,7 +15,7 @@ export default function Modal1({show, onClose}) {
             {JSON.stringify(show)}
             <section className={modalClass}>
                 <div class="modal__wrapper">
-                    <button class="modal__button" onClick={onClose}></button>
+                    <button class="modal__button" onClick={onClose}>X</button>
                     <p class="modal__text">В десятилетнем исследовании <span class="modal__text_accent">«Генетическая эпидемиология ХОБЛ» (COPDGene)</span>
                         среди пациентов с ХОБЛ, диагностированной до 55 лет, было выявлено <span
                             class="modal__text_accent">преобладание женщин (66%)</span>

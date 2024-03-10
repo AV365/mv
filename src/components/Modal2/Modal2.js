@@ -15,7 +15,7 @@ export default function Modal2({show, onClose}) {
         <>
             <section className={modalClass}>
                 <div className="modal__wrapper">
-                    <button className="modal__button"  onClick={onClose}></button>
+                    <button className="modal__button"  onClick={onClose}>X</button>
                     <p className="modal__text modal__text_accent">Большинство пациентов с ХОБЛ столкнется с
                         обострениями: как
                         минимум одно среднетяжелое или тяжелое обострение случится в течение 3 лет у 77%
