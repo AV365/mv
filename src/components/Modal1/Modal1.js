@@ -12,7 +12,7 @@ export default function Modal1({show, onClose}) {
 
     return (
         <>
-            {JSON.stringify(show)}
+
             <section className={modalClass}>
                 <div class="modal__wrapper">
                     <button class="modal__button" onClick={onClose}>X</button>
